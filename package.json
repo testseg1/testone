@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "xml-crypto": "^5.1.1"
+    "xml-crypto": "^6.0.1"
   }
 }
