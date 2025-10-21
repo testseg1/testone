@@ -3,6 +3,8 @@ const { exec } = require('child_process');
 const app = express();
 const port = 3000;
 
+const password = 'supersecret';
+
 app.get('/files', (req, res) => {
   const filename = req.query.filename; // User-provided input
 
